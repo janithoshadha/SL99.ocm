@@ -1,0 +1,172 @@
+.backgroud{
+    width:125%;
+    position: fixed;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+
+.item1 {
+    color: rgb(248, 238, 238);
+    display: inline;
+    margin-left: 25px;
+    margin-top: 8px;
+    font-family: "Gotham";
+    font-size: 17px;
+    font-weight: bold;
+}
+.i {
+    width: 120px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.list1 {
+    position: absolute;
+    list-style: none;
+    margin-left: 265px;
+    margin-top: 10px;
+}
+
+.item1 {
+    color: rgb(19, 5, 5);
+    display: inline;
+    margin-left: 15px;
+    margin-top: 8px;
+    font-family: "Gotham";
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.list2 {
+    list-style: none;
+    position: absolute;
+    margin-left: 940px;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: bold;
+    
+}
+
+@font-face {
+
+    font-family: "Gotham";
+    src: url("font.woff2");
+}
+
+.p1 {
+    position: absolute;
+    color: rgb(126, 20, 20);
+    font-family: "Gotham";
+    margin-top: 100px;
+    margin-left: 600px;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.p2{
+    position: absolute;
+    color: rgb(126, 20, 20);
+    font-family: "Gotham";
+    margin-top: 220px;
+    margin-left: 600px;
+    font-size: 22px;
+    font-weight: bold;  
+}
+
+.bottom-list {
+    list-style: none;
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 163px;
+
+}
+
+.bottom-item {
+    display: inline-block;
+    margin-left: 30px;
+
+}
+
+.text1 {
+    color: white;
+    font-size: 32px;
+    font-family: "Gotham";
+    text-align: center;
+    font-weight: bold;
+}
+
+.text2 {
+    color: #0f0202;
+    font-size: 27px;
+    font-family: "Gotham";
+    margin-top: -20px;
+    text-align: center;
+    font-weight: bold;
+    
+
+}
+
+.order-button {
+    width: 210px;
+    margin-top: -65px;
+    margin-left: 50px;
+    position: absolute;
+    height: 40px;
+    color: white;
+    background-color: transparent;
+    text-transform: uppercase;
+    border-style: soild;
+    border-color: white;
+    border-width: 3px;
+    border-radius: 50px;
+
+
+}
+
+.order-button:hover {
+    background-color: white;
+    color: white;
+    cursor: pointer;
+    transition-duration: 1s;
+}
+
+.list1:hover {
+    background-color:rgba(255, 255, 255, 0.24);
+    cursor: pointer;
+    transition-duration: 1s;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+.list2:hover {
+    background-color: rgba(248, 248, 248, 0.25);
+    cursor: pointer;
+    transition-duration: 1s;
+    padding: 7px;
+    border-radius: 10px;
+
+}
+
+.bottom-item2{
+    display: inline-block;
+    margin-left: 300px;
+
+
+}
+
+.slaider{
+  width: 1000px;
+  height: 500px;
+    display: inline-flex;
+}
+
+
+.button{
+    background: none;
+    border: none;
+    font-family: "Gotham";
+    font-size: 17px;
+    font-weight: bold;
+}
